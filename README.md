@@ -13,7 +13,7 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 * Tip: also use a Bitcoin wallet that supports Segwit addresses so you can spend Bitcoin sent to the SegWit part of the wallet.
 * Tip: you can maintain as many wallets as you want.
 * Tip: write a bot to spend the Bitcoin, that would be faster than manually using a Bitcoin wallet.
-* Tip: when sending Bitcoin, choose as high a fee as possible, to beat others tring to send the same Bitcoin.
+* Tip: when sending Bitcoin, choose as high a fee as possible, to beat others trying to send the same Bitcoin.
 
 ## How to airdrop Bitcoin into the Global Bitcoin Wallet?
 
