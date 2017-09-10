@@ -20,6 +20,10 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 * Import the wallet and create a receiving address.
 * Or type the seed into https://iancoleman.github.io/bip39/ and look in the Derived Addresses section under the Address column. The first address is `145SdiDuFJvW1HX61TNx45Qx6bhJAo2BQe`. Click on the BIP49 tab to get SegWit addresses. The first SegWit address is `3Aqj88oSKhQPafvWz1eU7K4CeWmVFoRmXD`.
 
+## Can anyone cheat?
+
+The [operators of the Bitcoin mining pools](https://blockchain.info/pools) could claim the bounties for themselves without anyone knowing.
+
 ## How to view the action without a wallet?
 
 * For the 'legacy' address part of the wallet: https://blockchain.info/xpub/xpub6DPnB7gikt1YHpJZSmREWbP4UdRQNgT4FKXaYXVheG28WYkzU72XRKbpUR7q19zuT3tuoogFnmfcbj2WQrwZSydF1tWwdegvQAkaESxsnMg
