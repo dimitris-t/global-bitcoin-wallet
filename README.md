@@ -8,6 +8,7 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 2. Import the Global Bitcoin Wallet by recovering the 12-word seed phrase: `art art art art art art art art art art art able`.
 3. When Bitcoin arrives at the Global Bitcoin Wallet, send it your own receiving address you prepared in step 1.
 
+* Tip: you are competing with thousands of humans and bots to take this Bitcoin.
 * Tip: use a Bitcoin wallet that supports 0-confirmation transactions i.e. it lets you spend Bitcoin you receive immediately.
 * Tip: also use a Bitcoin wallet that supports Segwit addresses so you can spend Bitcoin sent to the SegWit part of the wallet.
 * Tip: you can maintain as many wallets as you want.
