@@ -22,7 +22,7 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 ## How to view the action without a wallet?
 
 * For the 'legacy' address part of the wallet: https://blockchain.info/xpub/xpub6DPnB7gikt1YHpJZSmREWbP4UdRQNgT4FKXaYXVheG28WYkzU72XRKbpUR7q19zuT3tuoogFnmfcbj2WQrwZSydF1tWwdegvQAkaESxsnMg
-* For the 'SegWit' address part of the wallet: https://blockchain.info/xpub/xpub6BgqcfMRyM2Vu8fGUNC8HM5eE4THBfxzvdLvV4AiTaUGtq69MTbz9fZr34wwRDsjRwrVAeKYS7Ro7rzFw5r2gY7mMrACGyT5iHdD8RNW6dP
+* For the 'SegWit' address part of the wallet: [need to find a blockchain explorer that supports this]
 
 ## Why?
 
