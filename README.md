@@ -35,7 +35,7 @@ Why not?
 
 To train people in the use of Bitcoin.
 
-To airdrop Bitcoin to just to random people in the street, but to random people who went into the trouble to educate themselves.
+Randomly donate Bitcoin to people who went into the trouble to educate themselves; not just random people off the street.
 
 To get people to learn enough to write bots.
 
