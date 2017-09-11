@@ -15,7 +15,7 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 * Tip: write a bot to spend the Bitcoin, that would be faster than manually using a Bitcoin wallet.
 * Tip: when sending Bitcoin, choose as high a fee as possible, to beat others trying to send the same Bitcoin.
 
-## How to airdrop Bitcoin into the Global Bitcoin Wallet?
+## How to send Bitcoin into the Global Bitcoin Wallet?
 
 * Import the wallet and create a receiving address.
 * Or type the seed into https://iancoleman.github.io/bip39/ and look in the Derived Addresses section under the Address column. The first address is `145SdiDuFJvW1HX61TNx45Qx6bhJAo2BQe`. Click on the BIP49 tab to get SegWit addresses. The first SegWit address is `3Aqj88oSKhQPafvWz1eU7K4CeWmVFoRmXD`.
