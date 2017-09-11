@@ -4,7 +4,7 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 
 ## How to spend/take the Bitcoin?
 
-1. Make sure you have a created Bitcoin wallet of your own. Create a receiving Bitcoin address.
+1. Make sure you have a created Bitcoin wallet of your own. Create a receiving Bitcoin address. Start at https://bitcoin.org/en/getting-started
 2. Import the Global Bitcoin Wallet by recovering the 12-word seed phrase: `art art art art art art art art art art art able`.
 3. When Bitcoin arrives at the Global Bitcoin Wallet, send it your own receiving address you prepared in step 1.
 
