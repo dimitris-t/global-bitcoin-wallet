@@ -22,12 +22,13 @@ The _Global Bitcoin Wallet_ is `art art art art art art art art art art art able
 
 ## Can anyone cheat?
 
-The [operators of the Bitcoin mining pools](https://blockchain.info/pools) could claim the bounties for themselves without anyone knowing.
+The [operators of the Bitcoin mining pools](https://blockchain.info/pools) could claim the bounties for themselves without anyone knowing. But as long as people keep trying to take the bounties (we can measure this), this project achieves its educational purpose.
 
-## How to view the action without a wallet?
+## How to view the action?
 
-* For the 'legacy' address part of the wallet: https://blockchain.info/xpub/xpub6DPnB7gikt1YHpJZSmREWbP4UdRQNgT4FKXaYXVheG28WYkzU72XRKbpUR7q19zuT3tuoogFnmfcbj2WQrwZSydF1tWwdegvQAkaESxsnMg
-* For the 'SegWit' address part of the wallet: [need to find a blockchain explorer that supports this]
+* Just import the seed into your wallet and watch.
+* Without a wallet, you can see the non-SegWit transactions at: https://blockchain.info/xpub/xpub6DPnB7gikt1YHpJZSmREWbP4UdRQNgT4FKXaYXVheG28WYkzU72XRKbpUR7q19zuT3tuoogFnmfcbj2WQrwZSydF1tWwdegvQAkaESxsnMg
+* Without a wallet, you can see the SegWit transactions at: [need to find a blockchain explorer that supports this]
 
 ## Why?
 
@@ -35,7 +36,7 @@ Why not?
 
 To train people in the use of Bitcoin.
 
-Randomly donate Bitcoin to people who went into the trouble to educate themselves; not just random people off the street.
+To randomly donate Bitcoin to **people who went into the trouble to educate themselves**; not just random people off the street.
 
 To get people to learn enough to write bots.
 
