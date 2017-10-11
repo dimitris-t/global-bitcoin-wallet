@@ -34,11 +34,18 @@ The [operators of the Bitcoin mining pools](https://blockchain.info/pools) could
 
 Why not?
 
-To train people in the use of Bitcoin.
+This is a learning exercise in:
+* Bitcoin
+* Bitcoin Hierarchical Deterministic wallets, BIP39 seeds and BIP44 & BIP49 derivation paths
+* Bitcoin transactions
+* Spending unconfirmed Bitcoin transaction outputs
+* Bitcoin fees
+* RBF (Replace By Fee)
+* CPFP (Child Pays For Parent)
+* Scripting
+* Bitcoin scripting
 
 To randomly donate Bitcoin to **people who went into the trouble to educate themselves**; not just random people off the street.
-
-To get people to learn enough to write bots.
 
 For the planet to share a wallet :)
 
